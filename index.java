@@ -4,7 +4,7 @@ public class index
 	{
 		for(int i=0; i<4;i++)
 		{
-			System.out.println("Hello cahnge one in v.1.0f1");
+			System.out.println("Hello cahnge two in v.1.0f1");
 		}
 	}
 }
